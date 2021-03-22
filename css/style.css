@@ -1,0 +1,40 @@
+h2 {
+	color: #fff;
+	background-color: green;
+	font-size: 28px;
+	padding: 5px;
+}
+
+h2.what {
+	padding: 40px;
+}
+
+.red-text {
+	color: red;
+}
+
+.logo {
+	width: 150px;
+}
+
+.box {
+	color: #fff;
+	width: 100px;
+	height: 75px;
+	background-color: blue;
+	box-sizing: border-box;
+	margin-bottom: 150px;
+}
+
+.center-text {
+	margin:15px 60px;
+}
+
+li {
+	font-size: 30px;
+	border: 2px solid #000000;
+}
+
+ul {
+	margin: 35px 2px; 
+}
